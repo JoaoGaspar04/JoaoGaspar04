@@ -64,3 +64,11 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jonygaspas04"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jonygaspas04"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 </ul>
+
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
