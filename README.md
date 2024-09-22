@@ -66,11 +66,6 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 </ul>
 ### Snake Game Contribution Graph
 
-![Snake animation](https://github.com/JoaoGaspar04/github-snake.svg)
-
-### Snake Game Contribution Graph
-
-```yaml
 - uses: Platane/snk@v3
   with:
     github_user_name: JoaoGaspar04
@@ -78,3 +73,6 @@ I am specialized in IT and networks, with hands-on experience in several areas o
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+    snake: |
+      color: orange
+      dots: '#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9'
