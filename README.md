@@ -1,17 +1,17 @@
-# Hi! 👋
+Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is João Gaspar
+===================================================================================================================================
 
-## My name is João Gaspar
+Computer Technician, Network Management, Programming, and more
+--------------------------------------------------------------
 
-### Computer Technician, Network Management, Programming, and more
+I am specialized in IT and networks, with hands-on experience in several areas of IT, having acquired skills in hardware maintenance, network configuration, and technical support. I am an adaptable person, quick to learn new technologies and face challenges. I stand out for my ability to solve problems quickly, for working well in a team, and for effective communication. I am always available to improve and acquire new skills, staying up-to-date with technological trends. I am dedicated and focused on delivering quality results.
 
-I am specialized in IT and networks, with hands-on experience in various areas of IT. I have developed skills in **hardware maintenance**, **network configuration**, **programming**, and **technical support**. I adapt quickly to new technologies and face challenges head-on. I excel at problem-solving, work well in a team, and communicate effectively. I am dedicated to improving my skills and staying up-to-date with technological trends. I focus on delivering high-quality results.
-
-*   🌍  I'm based in **Portugal, Castelo Branco, Belmonte**
+*   🌍  I'm based in Portugal, Castelo Branco, Belmonte
 *   🖥️  See my portfolio at [Cyb3rworks](http://cyb3rworks.rf.gd)
 *   ✉️  You can contact me at [joacgaspar@gmail.com](mailto:joacgaspar@gmail.com)
 *   ⚡  Transforming lines of code into practical and innovative solutions.
 
-### Skills
+### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -32,16 +32,8 @@ I am specialized in IT and networks, with hands-on experience in various areas o
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 </p>
 
-### Additional Information
-
-- **Networking:** Expertise in configuring and managing local area networks (LAN), wide area networks (WAN), and VPNs.
-- **Cybersecurity:** Knowledge in implementing security measures, firewalls, and intrusion detection systems to protect network integrity.
-- **Cloud Computing:** Experience with cloud services like AWS, Azure, and Google Cloud Platform for scalable applications.
-- **Database Management:** Proficient in SQL and NoSQL databases, ensuring data integrity and efficient querying.
-- **Version Control:** Familiarity with Git and GitHub for source code management and collaboration.
-- **IoT:** Hands-on experience with Internet of Things (IoT) devices, including integration and programming.
-
 ### Socials
+
 <p align="left">
 <a href="https://www.github.com/JoaoGaspar04" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
@@ -56,7 +48,7 @@ I am specialized in IT and networks, with hands-on experience in various areas o
 
 ### Badges
 
-**My GitHub Stats**
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JoaoGaspar04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGaspar04&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
