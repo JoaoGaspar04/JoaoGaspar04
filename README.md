@@ -65,9 +65,4 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jonygaspas04"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 </ul>
 
-    github_user_name: JoaoGaspar04
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
  
