@@ -1,17 +1,15 @@
-Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is João Gaspar
-===================================================================================================================================
+# Hi! My name is João Gaspar
 
-Computer Technician, Network Management, Programming, and more
---------------------------------------------------------------
+## Computer Technician, Network Management, Programming, and more
 
 I am specialized in IT and networks, with hands-on experience in several areas of IT, having acquired skills in hardware maintenance, network configuration, and technical support. I am an adaptable person, quick to learn new technologies and face challenges. I stand out for my ability to solve problems quickly, for working well in a team, and for effective communication. I am always available to improve and acquire new skills, staying up-to-date with technological trends. I am dedicated and focused on delivering quality results.
 
-*   🌍  I'm based in Portugal, Castelo Branco, Belmonte
-*   🖥️  See my portfolio at [Cyb3rworks](http://cyb3rworks.rf.gd)
-*   ✉️  You can contact me at [joacgaspar@gmail.com](mailto:joacgaspar@gmail.com)
-*   ⚡  Transforming lines of code into practical and innovative solutions.
+* 🌍 I'm based in Portugal, Castelo Branco, Belmonte
+* 🖥️ See my portfolio at [Cyb3rworks](http://cyb3rworks.rf.gd)
+* ✉️ You can contact me at [joacgaspar@gmail.com](mailto:joacgaspar@gmail.com)
+* ⚡ Transforming lines of code into practical and innovative solutions.
 
-### Skills 
+### Skills
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -33,7 +31,6 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 </p>
 
 ### Socials
-
 <p align="left">
 <a href="https://www.github.com/JoaoGaspar04" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
@@ -48,31 +45,42 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 ### Badges
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**
 
 <a href="http://www.github.com/JoaoGaspar04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGaspar04&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/JoaoGaspar04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGaspar04&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-### Top Repositories
+### Snake Game Contribution Graph
 
-<div width="100%" align="center"></div>
+```yaml
+name: Update Snake Game Contribution Graph
 
-### Support Me
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza diariamente à meia-noite
+  workflow_dispatch:  # Permite que você execute manualmente o fluxo de trabalho
 
-<ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jonygaspas04"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jonygaspas04"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: JoaoGaspar04
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-
-- uses: Platane/snk@v3
-  with:
-    github_user_name: JoaoGaspar04
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-    snake: |
-      color: orange
-      dots: '#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9'
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add dist/*
+          git commit -m "Update snake game contribution graph" || echo "No changes to commit"
+          git push
