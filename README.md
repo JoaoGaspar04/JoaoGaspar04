@@ -48,7 +48,7 @@ I am specialized in IT and networks, with hands-on experience in several areas o
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  <a href="http://www.medium.com/joacgaspar" target="_blank">
+  <a href="https://medium.com/@joacgaspar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
   </a>
 </div>
