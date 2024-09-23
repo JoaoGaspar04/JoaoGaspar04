@@ -70,3 +70,9 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
+### Snake Game
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JoaoGaspar04 /JoaoGaspar04 /output/snake.svg" alt="Snake animation" />
+
