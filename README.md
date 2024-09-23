@@ -81,3 +81,6 @@ I am specialized in IT and networks, with hands-on experience in several areas o
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+### Snake Game 
+
+<img src="https://raw.githubusercontent.com/JoaoGaspar04 /JoaoGaspar04 /output/snake.svg" alt="Snake animation" />
