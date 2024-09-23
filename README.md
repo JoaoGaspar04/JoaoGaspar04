@@ -67,6 +67,9 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jonygaspas04"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 </ul>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
+
 ### Hello World
 
 
