@@ -7,7 +7,7 @@ Computer Technician, Network Management, Programming, and more
 I am specialized in IT and networks, with hands-on experience in several areas of IT, having acquired skills in hardware maintenance, network configuration, and technical support. I am an adaptable person, quick to learn new technologies and face challenges. I stand out for my ability to solve problems quickly, for working well in a team, and for effective communication. I am always available to improve and acquire new skills, staying up-to-date with technological trends. I am dedicated and focused on delivering quality results.
 
 *   🌍  I'm based in Portugal, Castelo Branco, Belmonte
-*   🖥️  See my portfolio at [Cyb3rworks](http://cyb3rworks.rf.gd)
+*   🖥️  See my website at [Cyb3rworks](http://cyb3rworks.rf.gd)
 *   ✉️  You can contact me at [joacgaspar@gmail.com](mailto:joacgaspar@gmail.com)
 *   ⚡  Transforming lines of code into practical and innovative solutions.
 
