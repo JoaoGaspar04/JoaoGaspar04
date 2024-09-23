@@ -72,12 +72,9 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<div align="center">
-  <a href="https://github.com/sponsors/yourprofile">
-    <img src="https://img.shields.io/badge/Gift_Code-GIFT--CODE--1234-ff69b4?style=for-the-badge&logo=github" height="35" alt="gift code" />
-  </a>
-</div>
-
+- Happy Coder
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 
 
 
