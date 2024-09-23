@@ -83,4 +83,4 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 ### Snake Game 
 
-<img src="https://raw.githubusercontent.com/JoaoGaspar04 /JoaoGaspar04 /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoaoGaspar04 /JoaoGaspar04 /output/snake.svg](https://github.com/JoaoGaspar04/JoaoGaspar04/blob/main/snake.yml" alt="Snake animation" />
