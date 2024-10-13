@@ -58,12 +58,6 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 <a href="https://github.com/JoaoGaspar04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGaspar04&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 
-
-### Support Me
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jonygaspas04"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
@@ -78,10 +72,12 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 
 # Tech Stack floating
+
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 <br><br>
 
 # Life balance
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
 <br><br>
 
