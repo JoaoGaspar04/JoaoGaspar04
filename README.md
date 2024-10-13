@@ -53,7 +53,6 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
 
 <a href="https://github.com/JoaoGaspar04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGaspar04&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
@@ -70,10 +69,10 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 ### Hello World
 
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 # Happy Coder
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
 
