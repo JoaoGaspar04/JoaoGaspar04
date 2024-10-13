@@ -53,7 +53,8 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 ### Badges
 
-<a href="https://github.com/JoaoGaspar04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGaspar04&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGaspar04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
