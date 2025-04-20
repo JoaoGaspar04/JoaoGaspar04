@@ -8,7 +8,7 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 
 *   🌍  I'm based in Portugal, Castelo Branco, Belmonte
 *   🖥️  See my website at [Joaocgaspar](https://joaocgaspar.pt/)
-*   ✉️  You can contact me at [joacgaspar@gmail.com](mailto:joacgaspar@gmail.com)
+*   ✉️  You can contact me at [support@joaocgaspar.pt](mailto:support@joaocgaspar.pt)
 *   ⚡  Transforming lines of code into practical and innovative solutions.
 
 ### Skills 
