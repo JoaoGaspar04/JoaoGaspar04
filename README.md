@@ -54,9 +54,6 @@ I am specialized in IT and networks, with hands-on experience in several areas o
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
-### Hello World
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 # Happy Coder
 
