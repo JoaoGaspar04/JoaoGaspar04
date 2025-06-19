@@ -31,7 +31,7 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 
 **🎯 Mission:** To provide comprehensive cybersecurity solutions that protect businesses and individuals from evolving digital threats while enabling secure technological advancement.
 
-### Core Expertise
+### Expertise
 
 **🔒 Cybersecurity & Network Security**
 
