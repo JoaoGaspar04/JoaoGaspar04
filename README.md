@@ -45,14 +45,18 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 </div>
 
-**🌐 Network Infrastructure & Administration**
+**🌐 Network Infrastructure**
 
 - Network Design & Architecture (LAN/WAN/VLAN)
 - Network Monitoring & Performance Optimization
 - VPN Implementation & Management
 - Network Troubleshooting & Maintenance
+- Firewall Management (pfSense , Watchguard)
+- Network Monitoring (Nagios, Zabbix, PRTG)
+- Wireless Security (WPA3, Enterprise WiFi)
+- Network Protocol Analysis
 
-**💻 IT Technical Support & System Administration**
+**💻 IT Technical Support & System**
 
 - System Administration (Windows Server/Linux)
 - Hardware Troubleshooting & Maintenance
@@ -72,13 +76,12 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 - IoT Protocol Implementation (MQTT)
 - IoT Vulnerability Assessment
 
-**☁️ Cloud & Infrastructure Security**
+**☁️ Cloud & Infrastructure **
 
 - Cloud Security Architecture (AWS, Azure)
 - Container Security (Docker, Kubernetes)
 - Zero Trust Network Architecture
-- DevSecOps Implementation
-- Cloud Migration Security
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -108,22 +111,6 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
-
-### 🎓 Experience & Professional Development
-
-**🌐 Network Technologies**
-
-- Firewall Management (pfSense, FortiGate, SonicWall)
-- Network Monitoring (Nagios, Zabbix, PRTG)
-- Wireless Security (WPA3, Enterprise WiFi)
-- Network Protocol Analysis
-
-**💻 IT Technical Certifications**
-
-- Microsoft Windows Server Administration
-- Linux System Administration (Red Hat, Ubuntu)
-- VMware Virtualization Technologies
-- IT Service Management
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
