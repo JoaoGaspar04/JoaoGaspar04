@@ -1,10 +1,11 @@
 Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is João Gaspar
 ===================================================================================================================================
 
-Técnico de Informática | Network Security Specialist | Cybersecurity Expert | IoT Solutions Developer
+Computer Technician | Network Security  | Cybersecurity  | IoT Solutions Developer
 -------------------------------------------------------------------------------------------------------
 
-I am a specialized IT professional and computer technician focused on network security, cybersecurity, and IoT infrastructure. With extensive hands-on experience in network architecture, security protocols, and IoT device management, I design and implement robust security solutions for modern digital environments. My expertise spans from network penetration testing to IoT security frameworks, ensuring comprehensive protection across all network layers.
+Hi! I'm João Gaspar, a Computer Technician specialized in Network Management and Cybersecurity. Passionate about tech and digital security, I combine hands-on experience in networks, servers, and data protection with solid programming skills (Java, Python, PHP, JavaScript). I focus on building secure, efficient solutions and am constantly evolving as a cybersecurity professional.
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -15,7 +16,7 @@ I am a specialized IT professional and computer technician focused on network se
 *   ✉️  You can contact me at [support@joaocgaspar.pt](mailto:support@joaocgaspar.pt)
 *   🔐  Securing networks and IoT ecosystems with cutting-edge cybersecurity solutions
 *   🛡️  Specialized in network defense, threat detection, and vulnerability assessment
-*   💻  IT Technician with expertise in system administration and network infrastructure
+*   💻  IT Technician with expertise in system administration and network 
 *   🌐  Professional website: [www.joaocgaspar.pt](https://www.joaocgaspar.pt/)
 
 <div align="center">
@@ -33,7 +34,6 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 **🔒 Cybersecurity & Network Security**
 - Network Penetration Testing & Vulnerability Assessment
 - Firewall Configuration & Intrusion Detection Systems (IDS/IPS)
-- Security Information and Event Management (SIEM)
 - Incident Response & Digital Forensics
 - Risk Assessment & Security Auditing
 - Threat Intelligence & Analysis
@@ -44,10 +44,8 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 
 **🌐 Network Infrastructure & Administration**
 - Network Design & Architecture (LAN/WAN/VLAN)
-- Routing & Switching Protocols (OSPF, BGP, STP)
 - Network Monitoring & Performance Optimization
 - VPN Implementation & Management
-- Software-Defined Networking (SDN)
 - Network Troubleshooting & Maintenance
 
 **💻 IT Technical Support & System Administration**
@@ -64,16 +62,13 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 
 **🏠 IoT & Smart Systems Security**
 - IoT Device Security & Authentication
-- Industrial IoT (IIoT) Solutions
 - Smart Home/Building Automation Security
-- IoT Protocol Implementation (MQTT, CoAP, LoRaWAN)
-- Edge Computing & IoT Data Analytics
+- IoT Protocol Implementation (MQTT)
 - IoT Vulnerability Assessment
 
 **☁️ Cloud & Infrastructure Security**
-- Cloud Security Architecture (AWS, Azure, GCP)
+- Cloud Security Architecture (AWS, Azure)
 - Container Security (Docker, Kubernetes)
-- Infrastructure as Code (IaC) Security
 - Zero Trust Network Architecture
 - DevSecOps Implementation
 - Cloud Migration Security
@@ -107,28 +102,19 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-### 🎓 Certifications & Professional Development
-
-**🔐 Security Certifications**
-- Network Security Fundamentals
-- Ethical Hacking & Penetration Testing
-- IoT Security Implementation
-- Cloud Security Architecture
-- Incident Response & Digital Forensics
+### 🎓 Experience & Professional Development
 
 **🌐 Network Technologies**
-- Cisco Networking (CCNA level knowledge)
 - Firewall Management (pfSense, FortiGate, SonicWall)
 - Network Monitoring (Nagios, Zabbix, PRTG)
 - Wireless Security (WPA3, Enterprise WiFi)
 - Network Protocol Analysis
 
 **💻 IT Technical Certifications**
-- CompTIA A+ (Hardware & Software)
 - Microsoft Windows Server Administration
 - Linux System Administration (Red Hat, Ubuntu)
 - VMware Virtualization Technologies
-- IT Service Management (ITIL Foundation)
+- IT Service Management
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
@@ -154,28 +140,6 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaocgaspar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="João's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocgaspar&theme=tokyonight&hide_border=true" alt="João's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocgaspar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocgaspar&theme=tokyo-night&hide_border=true" alt="João's GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
 ### 🛡️ Security Tools & Frameworks
@@ -222,27 +186,9 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-### 🌐 Connect with Me
-
-<p align="center">
-<a href="https://www.joaocgaspar.pt/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website" />
-</a>
-<a href="mailto:support@joaocgaspar.pt" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/joaocgaspar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/joaocgaspar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
-
-### 🏆 Professional Services
-
+### 🏆 Services
 **🔐 Cybersecurity Consulting**
-- Security Assessments & Audits
+- Security Assessments
 - Penetration Testing Services
 - Incident Response & Recovery
 - Security Policy Development
@@ -250,23 +196,21 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 
 **🌐 Network Solutions**
 - Network Design & Implementation
-- Security Architecture Planning
 - Network Performance Optimization
-- Wireless Network Security
-- VPN & Remote Access Solutions
+- Wireless Network
+- VPN & Remote 
 
 **💻 IT Support Services**
 - System Administration & Maintenance
 - Hardware & Software Troubleshooting
 - IT Infrastructure Planning
-- Cloud Migration Services
 - Technical Training & Documentation
 
 **🏠 IoT Security Services**
-- IoT Device Security Assessment
-- Smart Home/Office Security Setup
-- Industrial IoT Security Implementation
-- IoT Network Architecture Design
+- IoT Device Security
+- Smart Home/Office Security
+- IoT Security Implementation
+- IoT Network 
 - Device Management & Monitoring
 
 ---
