@@ -76,7 +76,7 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 - IoT Protocol Implementation (MQTT)
 - IoT Vulnerability Assessment
 
-**☁️ Cloud & Infrastructure **
+**☁️ Cloud & Infrastructure**
 
 - Cloud Security Architecture (AWS, Azure)
 - Container Security (Docker, Kubernetes)
