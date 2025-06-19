@@ -87,7 +87,7 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-### 🛠️ Technical Skills & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
