@@ -1,16 +1,25 @@
 Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is João Gaspar
 ===================================================================================================================================
 
-Network Security Specialist | Cybersecurity Expert | IoT Solutions Developer
-------------------------------------------------------------------------------
+Técnico de Informática | Network Security Specialist | Cybersecurity Expert | IoT Solutions Developer
+-------------------------------------------------------------------------------------------------------
 
-I am a specialized IT professional focused on network security, cybersecurity, and IoT infrastructure. With extensive hands-on experience in network architecture, security protocols, and IoT device management, I design and implement robust security solutions for modern digital environments. My expertise spans from network penetration testing to IoT security frameworks, ensuring comprehensive protection across all network layers.
+I am a specialized IT professional and computer technician focused on network security, cybersecurity, and IoT infrastructure. With extensive hands-on experience in network architecture, security protocols, and IoT device management, I design and implement robust security solutions for modern digital environments. My expertise spans from network penetration testing to IoT security frameworks, ensuring comprehensive protection across all network layers.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 *   🌍  I'm based in Portugal, Castelo Branco, Belmonte
 *   🖥️  See my website at [Joaocgaspar](https://joaocgaspar.pt/)
 *   ✉️  You can contact me at [support@joaocgaspar.pt](mailto:support@joaocgaspar.pt)
 *   🔐  Securing networks and IoT ecosystems with cutting-edge cybersecurity solutions
 *   🛡️  Specialized in network defense, threat detection, and vulnerability assessment
+*   💻  IT Technician with expertise in system administration and network infrastructure
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+</div>
 
 ### Core Expertise
 
@@ -21,12 +30,27 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 - Incident Response & Digital Forensics
 - Risk Assessment & Security Auditing
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</div>
+
 **🌐 Network Infrastructure**
 - Network Design & Architecture (LAN/WAN/VLAN)
 - Routing & Switching Protocols (OSPF, BGP, STP)
 - Network Monitoring & Performance Optimization
 - VPN Implementation & Management
 - Software-Defined Networking (SDN)
+
+**💻 IT Technical Support**
+- System Administration (Windows/Linux)
+- Hardware Troubleshooting & Maintenance
+- Network Configuration & Support
+- Server Management & Virtualization
+- Help Desk & Technical Documentation
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
 
 **🏠 IoT & Smart Systems**
 - IoT Device Security & Authentication
@@ -41,6 +65,10 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 - Infrastructure as Code (IaC) Security
 - Zero Trust Network Architecture
 - DevSecOps Implementation
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ### Technical Skills
 
@@ -63,6 +91,11 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
 ### Certifications & Specializations
 
 🎓 **Security Certifications**
@@ -76,6 +109,16 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 - Firewall Management (pfSense, FortiGate)
 - Network Monitoring (Nagios, Zabbix)
 - Wireless Security (WPA3, Enterprise WiFi)
+
+💻 **IT Technical Certifications**
+- CompTIA A+ (Hardware & Software)
+- Microsoft Windows Server Administration
+- Linux System Administration
+- VMware Virtualization Technologies
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+</div>
 
 ### Current Focus Areas
 
@@ -91,6 +134,12 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 - Custom SIEM Solutions
 - Network Vulnerability Scanners
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</div>
+
 ### GitHub Stats
 
 <div align="center">
@@ -103,6 +152,10 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocgaspar&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
 ### Security Tools & Frameworks
@@ -127,9 +180,17 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 ├── Suricata          # Network threat detection
 ├── Snort             # Intrusion detection system
 └── ELK Stack         # Security information and event management
+
+# IT Support Tools
+├── Active Directory  # Windows domain management
+├── VMware vSphere    # Virtualization platform
+├── Nagios           # Network monitoring
+└── Ansible          # Configuration management
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ### Connect With Me
 
@@ -142,18 +203,22 @@ I am a specialized IT professional focused on network security, cybersecurity, a
 ---
 
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
 </div>
 
 <div align="center">
   <i>🔐 "Security is not a product, but a process" - Bruce Schneier</i>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
