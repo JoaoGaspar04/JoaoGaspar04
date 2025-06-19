@@ -204,10 +204,6 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 └── Git              # Version control system
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" height="25"/>
