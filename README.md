@@ -11,6 +11,7 @@ Hi! I'm João Gaspar, a Computer Technician specialized in Network Management an
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
+
 *   🌍  I'm based in Portugal, Castelo Branco, Belmonte
 *   🖥️  See my website at [Joaocgaspar.pt](https://joaocgaspar.pt/)
 *   ✉️  You can contact me at [support@joaocgaspar.pt](mailto:support@joaocgaspar.pt)
@@ -18,6 +19,7 @@ Hi! I'm João Gaspar, a Computer Technician specialized in Network Management an
 *   🛡️  Specialized in network defense, threat detection, and vulnerability assessment
 *   💻  IT Technician with expertise in system administration and network 
 *   🌐  Professional website: [www.joaocgaspar.pt](https://www.joaocgaspar.pt/)
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -32,6 +34,7 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 ### Core Expertise
 
 **🔒 Cybersecurity & Network Security**
+
 - Network Penetration Testing & Vulnerability Assessment
 - Firewall Configuration & Intrusion Detection Systems (IDS/IPS)
 - Incident Response & Digital Forensics
@@ -43,12 +46,14 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 </div>
 
 **🌐 Network Infrastructure & Administration**
+
 - Network Design & Architecture (LAN/WAN/VLAN)
 - Network Monitoring & Performance Optimization
 - VPN Implementation & Management
 - Network Troubleshooting & Maintenance
 
 **💻 IT Technical Support & System Administration**
+
 - System Administration (Windows Server/Linux)
 - Hardware Troubleshooting & Maintenance
 - Network Configuration & Support
@@ -61,12 +66,14 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 </div>
 
 **🏠 IoT & Smart Systems Security**
+
 - IoT Device Security & Authentication
 - Smart Home/Building Automation Security
 - IoT Protocol Implementation (MQTT)
 - IoT Vulnerability Assessment
 
 **☁️ Cloud & Infrastructure Security**
+
 - Cloud Security Architecture (AWS, Azure)
 - Container Security (Docker, Kubernetes)
 - Zero Trust Network Architecture
@@ -105,12 +112,14 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 ### 🎓 Experience & Professional Development
 
 **🌐 Network Technologies**
+
 - Firewall Management (pfSense, FortiGate, SonicWall)
 - Network Monitoring (Nagios, Zabbix, PRTG)
 - Wireless Security (WPA3, Enterprise WiFi)
 - Network Protocol Analysis
 
 **💻 IT Technical Certifications**
+
 - Microsoft Windows Server Administration
 - Linux System Administration (Red Hat, Ubuntu)
 - VMware Virtualization Technologies
@@ -120,21 +129,34 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
 </div>
 
-### 🔬 Current Focus Areas & Research
+### 🏆🔬 Target areas
 
-**🔍 Active Research & Development**
-- Zero Trust Network Implementation
-- AI-Powered Threat Detection Systems
-- IoT Device Fingerprinting & Security
-- Quantum-Safe Cryptography
-- Advanced Persistent Threat (APT) Detection
+**🔐 Cybersecurity Consulting**
+- Security Assessments
+- Penetration Testing Services
+- Incident Response & Recovery
+- Security Policy Development
+- Compliance & Risk Management
 
-**🚀 Current Projects**
-- Network Security Automation Tools
-- IoT Honeypot Systems Development
-- Custom SIEM Solutions
-- Network Vulnerability Assessment Frameworks
-- Cybersecurity Training Platforms
+**🌐 Network Solutions**
+- Network Design & Implementation
+- Network Performance Optimization
+- Wireless Network
+- VPN & Remote 
+
+**💻 IT Support Services**
+- System Administration & Maintenance
+- Hardware & Software Troubleshooting
+- IT Infrastructure Planning
+- Technical Training & Documentation
+
+**🏠 IoT Security Services**
+- IoT Device Security
+- Smart Home/Office Security
+- IoT Security Implementation
+- IoT Network 
+- Device Management & Monitoring
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -186,35 +208,6 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-### 🏆 Target areas
-
-**🔐 Cybersecurity Consulting**
-- Security Assessments
-- Penetration Testing Services
-- Incident Response & Recovery
-- Security Policy Development
-- Compliance & Risk Management
-
-**🌐 Network Solutions**
-- Network Design & Implementation
-- Network Performance Optimization
-- Wireless Network
-- VPN & Remote 
-
-**💻 IT Support Services**
-- System Administration & Maintenance
-- Hardware & Software Troubleshooting
-- IT Infrastructure Planning
-- Technical Training & Documentation
-
-**🏠 IoT Security Services**
-- IoT Device Security
-- Smart Home/Office Security
-- IoT Security Implementation
-- IoT Network 
-- Device Management & Monitoring
-
----
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" height="25"/>
