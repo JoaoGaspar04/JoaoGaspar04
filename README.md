@@ -12,7 +12,7 @@ Hi! I'm João Gaspar, a Computer Technician specialized in Network Management an
 </div>
 
 
-*   🌍  I'm based in Portugal, Castelo Branco, Belmonte
+*   🌍  I'm based in Portugal, Castelo Branco
 *   🖥️  See my website at [Joaocgaspar.pt](https://joaocgaspar.pt/)
 *   ✉️  You can contact me at [support@joaocgaspar.pt](mailto:support@joaocgaspar.pt)
 *   🔐  Securing networks and IoT ecosystems with cutting-edge cybersecurity solutions
