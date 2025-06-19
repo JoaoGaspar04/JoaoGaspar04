@@ -156,7 +156,6 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 ├── Burp Suite        # Web application security testing
 ├── OWASP ZAP         # Web application security scanner
 ├── Nikto             # Web server scanner
-├── Nessus            # Vulnerability scanner
 └── OpenVAS           # Open source vulnerability scanner
 
 # IoT Security & Analysis
@@ -164,15 +163,12 @@ As a dedicated IT Technician and Cybersecurity Professional, I specialize in cre
 ├── Firmwalker        # Firmware security analysis
 ├── Binwalk           # Firmware analysis tool
 ├── MQTT Explorer     # MQTT protocol testing
-├── Shodan            # IoT device discovery
 └── Fing              # Network device discovery
 
 # Network Infrastructure & Monitoring
 ├── pfSense           # Firewall and router
 ├── Suricata          # Network threat detection
 ├── Snort             # Intrusion detection system
-├── ELK Stack         # Security information and event management
-├── Splunk            # Security analytics platform
 ├── Nagios           # Network monitoring
 └── Zabbix           # Infrastructure monitoring
 
