@@ -27,9 +27,7 @@ Hi! I'm João Gaspar, a Computer Technician specialized in Network Management an
 
 ### 🚀 About Me
 
-As a dedicated IT Technician and Cybersecurity Professional, I specialize in creating secure, robust network infrastructures and IoT ecosystems. My passion lies in protecting digital assets through innovative security solutions and cutting-edge technology implementations.
-
-**🎯 Mission:** To provide comprehensive cybersecurity solutions that protect businesses and individuals from evolving digital threats while enabling secure technological advancement.
+Hi! I'm João Gaspar, a Computer Technician specialized in Network Management and Cybersecurity. Passionate about tech and digital security, I combine hands-on experience in networks, servers, and data protection with solid programming skills (Java, Python, PHP, JavaScript). I focus on building secure, efficient solutions and am constantly evolving as a cybersecurity professional.
 
 ### Expertise
 
