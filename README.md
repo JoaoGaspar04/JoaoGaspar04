@@ -4,9 +4,6 @@ Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 Computer Technician | Network Security  | Cybersecurity  | IoT Solutions Developer
 -------------------------------------------------------------------------------------------------------
 
-Hi! I'm João Gaspar, a Computer Technician specialized in Network Management and Cybersecurity. Passionate about tech and digital security, I combine hands-on experience in networks, servers, and data protection with solid programming skills (Java, Python, PHP, JavaScript). I focus on building secure, efficient solutions and am constantly evolving as a cybersecurity professional.
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
