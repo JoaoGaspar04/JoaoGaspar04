@@ -10,12 +10,11 @@ Computer Technician | Network Security  | Cybersecurity  | IoT Solutions Develop
 
 
 *   🌍  I'm based in Portugal, Castelo Branco
-*   🖥️  See my website at [Joaocgaspar.pt](https://joaocgaspar.pt/)
 *   ✉️  You can contact me at [support@joaocgaspar.pt](mailto:support@joaocgaspar.pt)
 *   🔐  Securing networks and IoT ecosystems with cutting-edge cybersecurity solutions
 *   🛡️  Specialized in network defense, threat detection, and vulnerability assessment
 *   💻  IT Technician with expertise in system administration and network 
-*   🌐  Professional website: [www.joaocgaspar.pt](https://www.joaocgaspar.pt/)
+*   🌐  See my website at: [www.joaocgaspar.pt](https://www.joaocgaspar.pt/)
 
 
 <div align="center">
